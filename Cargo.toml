@@ -1,0 +1,6 @@
+[package]
+name = "elevator"
+version = "0.1.0"
+authors = ["Flavio Oliveira <rusty@wisespace.io>"]
+
+[dependencies]
